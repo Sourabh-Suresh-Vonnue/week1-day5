@@ -4,6 +4,10 @@
 
 This is a simple of Electrifex containing Home, About, Services, Team and Contact pages.
 
+### Deployed link:
+
+[Click here](https://sourabh-suresh-vonnue.github.io/week1-day5/)
+
 ### Screenshots:
 
 #### 1. Home page:
